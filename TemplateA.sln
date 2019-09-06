@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateA.Domain", "TemplateA.Domain\TemplateA.Domain.csproj", "{1782CDC8-93F3-4F96-B0CF-A811C6909B56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateA.Domain", "TemplateA.Domain\TemplateA.Domain.csproj", "{1782CDC8-93F3-4F96-B0CF-A811C6909B56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateA.Application", "TemplateA.Application\TemplateA.Application.csproj", "{87073B08-67AC-4E3E-AC3A-B6B37B968199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateA.Application", "TemplateA.Application\TemplateA.Application.csproj", "{87073B08-67AC-4E3E-AC3A-B6B37B968199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateA.Persistence", "TemplateA.Persistence\TemplateA.Persistence.csproj", "{D7BECC3D-A42F-4383-B968-3C05EE436A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateA.Persistence", "TemplateA.Persistence\TemplateA.Persistence.csproj", "{D7BECC3D-A42F-4383-B968-3C05EE436A25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateA.Infrastructure", "TemplateA.Infrastructure\TemplateA.Infrastructure.csproj", "{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateA.Service", "TemplateA.Service\TemplateA.Service.csproj", "{E55A3B09-ADA0-4EF4-AD38-6CAF7515F5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateA.Service", "TemplateA.Service\TemplateA.Service.csproj", "{E55A3B09-ADA0-4EF4-AD38-6CAF7515F5D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,18 +57,6 @@ Global
 		{D7BECC3D-A42F-4383-B968-3C05EE436A25}.Release|x64.Build.0 = Release|Any CPU
 		{D7BECC3D-A42F-4383-B968-3C05EE436A25}.Release|x86.ActiveCfg = Release|Any CPU
 		{D7BECC3D-A42F-4383-B968-3C05EE436A25}.Release|x86.Build.0 = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|x64.Build.0 = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Debug|x86.Build.0 = Debug|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|x64.ActiveCfg = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|x64.Build.0 = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|x86.ActiveCfg = Release|Any CPU
-		{7B32AE75-D74D-473A-BC3C-79EBECDB2DC5}.Release|x86.Build.0 = Release|Any CPU
 		{E55A3B09-ADA0-4EF4-AD38-6CAF7515F5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E55A3B09-ADA0-4EF4-AD38-6CAF7515F5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E55A3B09-ADA0-4EF4-AD38-6CAF7515F5D4}.Debug|x64.ActiveCfg = Debug|Any CPU
