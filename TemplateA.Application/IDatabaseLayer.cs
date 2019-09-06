@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using TemplateA.Domain;
+﻿using TemplateA.Domain;
 
 namespace TemplateA.Application
 {
